@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["gnd2skos"] = [{"text":"impl&lt;'de&gt; <a class=\"trait\" href=\"https://docs.rs/serde/1.0.130/serde/de/trait.Deserialize.html\" title=\"trait serde::de::Deserialize\">Deserialize</a>&lt;'de&gt; for <a class=\"struct\" href=\"gnd2skos/ignore_list/struct.Record.html\" title=\"struct gnd2skos::ignore_list::Record\">Record</a>","synthetic":false,"types":["gnd2skos::ignore_list::Record"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

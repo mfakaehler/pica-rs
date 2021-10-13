@@ -1,0 +1,1 @@
+initSidebarItems({"static":[["Concept","Generated term."],["PREFIX","Prefix used in this namespace."],["altLabel","Generated term."],["broader","Generated term."],["hiddenLabel","Generated term."],["prefLabel","Generated term."],["related","Generated term."]]});
