@@ -1,5 +1,5 @@
 [package]
-name = "pica"
+name = "pica-rs"
 version = "0.8.0"
 authors = ["Nico Wagner <nwagner84@protonmail.com>"]
 edition = "2021"
